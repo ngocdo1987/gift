@@ -262,4 +262,8 @@ class Api extends CI_Controller {
 		$data['categories'] = $this->db->get('categories')->result();
 		$this->load->view('demo_search_amz_products', $data);
 	}
+
+	function demo_register() {
+		$this->load->view('demo_register');
+	}
 }

@@ -1,0 +1,691 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"product_name"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"search",
+				"search"
+			],
+			[
+				"product",
+				"product_price"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"fb",
+				"fb_email"
+			],
+			[
+				"event",
+				"event_id"
+			],
+			[
+				"events",
+				"events_products"
+			],
+			[
+				"prod",
+				"product_image"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"fb_",
+				"fb_uid"
+			],
+			[
+				"leagu",
+				"league_fb_id"
+			],
+			[
+				"league",
+				"league_fb_id"
+			],
+			[
+				"lae",
+				"league_bb_id"
+			],
+			[
+				"lea",
+				"league"
+			],
+			[
+				"td_",
+				"td_score"
+			],
+			[
+				"strip",
+				"strip_tags"
+			],
+			[
+				"td_score",
+				"td_score_index"
+			],
+			[
+				"sec",
+				"section_final"
+			],
+			[
+				"div",
+				"div_day_wrapper"
+			],
+			[
+				"secti",
+				"section_scoreboard"
+			],
+			[
+				"away_s",
+				"away_score"
+			],
+			[
+				"sect",
+				"section_final"
+			],
+			[
+				"ncaa",
+				"ncaa_configs"
+			],
+			[
+				"span",
+				"span_date"
+			],
+			[
+				"match",
+				"match_day"
+			],
+			[
+				"div_",
+				"div_new_score_box_heading"
+			],
+			[
+				"home_s",
+				"home_score"
+			],
+			[
+				"home",
+				"home_team"
+			],
+			[
+				"away",
+				"away_score"
+			],
+			[
+				"home_",
+				"home_team"
+			],
+			[
+				"nfl",
+				"nfl_congis"
+			],
+			[
+				"for",
+				"foreign"
+			],
+			[
+				"awa",
+				"away_money_line_odds"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"away_total",
+				"away_total_points_odds"
+			],
+			[
+				"home_total",
+				"home_total_points_hdcp"
+			],
+			[
+				"home_tota",
+				"home_total_points_hdcp"
+			],
+			[
+				"home_t",
+				"home_total_points_hdcp"
+			],
+			[
+				"away_srea",
+				"away_spread_hdcp"
+			],
+			[
+				"home_sp",
+				"home_spread_hdcp"
+			],
+			[
+				"create",
+				"created_at"
+			],
+			[
+				"check_d",
+				"check_odd_total_point"
+			],
+			[
+				"home_total_",
+				"home_total_points_hdcp"
+			],
+			[
+				"check_",
+				"check_odd_money_line"
+			],
+			[
+				"or",
+				"orderBy"
+			],
+			[
+				"crea",
+				"created_at"
+			],
+			[
+				"away_",
+				"away_odd"
+			],
+			[
+				"away_sp",
+				"away_spread_hdcp"
+			],
+			[
+				"check",
+				"check_odd_spread"
+			],
+			[
+				"leag",
+				"league_name"
+			],
+			[
+				"date",
+				"date_and_league"
+			],
+			[
+				"tbody",
+				"tbody"
+			],
+			[
+				"tbo",
+				"tbody"
+			],
+			[
+				"beton",
+				"betonline_configs"
+			],
+			[
+				"sport",
+				"sportsbetting"
+			],
+			[
+				"line",
+				"line_arr"
+			],
+			[
+				"td",
+				"td_odds"
+			],
+			[
+				"odds",
+				"odds_index"
+			],
+			[
+				"odd",
+				"odds_index"
+			],
+			[
+				"hd",
+				"hdcp_index"
+			],
+			[
+				"hc",
+				"hdcp_index"
+			],
+			[
+				"to",
+				"tbody_date"
+			],
+			[
+				"get",
+				"gethostbyaddr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application/controllers/api.php",
+			"settings":
+			{
+				"buffer_size": 7604,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/demo_search_amz_products.php",
+			"settings":
+			{
+				"buffer_size": 854,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/libraries/amazon_product_api_class.php",
+			"settings":
+			{
+				"buffer_size": 8736,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/libraries/amazon_product_api_signed_request.php",
+			"settings":
+			{
+				"buffer_size": 3673,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/config/autoload.php",
+			"settings":
+			{
+				"buffer_size": 3098,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/config/database.php",
+			"settings":
+			{
+				"buffer_size": 3240,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 6402,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/libraries/Crawl.php",
+			"settings":
+			{
+				"buffer_size": 4662,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp_bis/htdocs/gift/application/libraries/AmazonECS.class.php",
+		"/C/xampp_bis/htdocs/bet88cover/bet88/app/Console/Kernel.php",
+		"/C/xampp_bis/htdocs/bet88cover/bet88/resources/views/dashboard/player/index.blade.php",
+		"/C/xampp_bis/htdocs/bet88cover/bet88/resources/views/layout/master.blade.php",
+		"/C/xampp_bis/htdocs/bet88cover/bet88/database/migrations/2015_12_04_092530_create_odd_spreads_table.php",
+		"/C/xampp_bis/htdocs/bet88cover/bet88/database/migrations/2015_12_07_093751_create_bet_spreads_table.php",
+		"/C/xampp_bis/htdocs/bet88cover/bet88/app/Console/Commands/Inspire.php",
+		"/C/xampp_bis/htdocs/bet88cover/bet88/database/migrations/2015_12_07_094659_create_bet_total_points_table.php",
+		"/C/xampp_bis/htdocs/bet88cover/bet88/database/migrations/2015_12_07_094523_create_bet_money_lines_table.php",
+		"/C/xampp_bis/htdocs/bet88cover/bet88/app/Http/Controllers/Crawl/CrawlsportsbettingController.php",
+		"/C/xampp_bis/htdocs/bet88cover/bet88/app/Http/Controllers/CrawlController.php",
+		"/C/xampp_bis/htdocs/bet88cover/bet88/database/migrations/2015_12_02_070405_create_matches_table.php",
+		"/C/xampp_bis/htdocs/bet88cover/bet88/database/migrations/2015_12_04_094811_create_bet_spreads_table.php",
+		"/C/xampp_bis/htdocs/bet88cover/bet88/database/migrations/2015_12_04_093957_create_odd_total_points_table.php",
+		"/C/xampp_bis/htdocs/bet88cover/bet88/database/migrations/2015_12_04_093445_create_odd_money_lines_table.php",
+		"/C/xampp_bis/htdocs/bet88cover/bet88/app/Libraries/Yangqi/Htmldom/Htmldom.php",
+		"/C/xampp_bis/htdocs/bet88cover/bet88/app/Player.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/controllers/api.php",
+					"settings":
+					{
+						"buffer_size": 7604,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								221,
+								227
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1824.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "application/views/demo_search_amz_products.php",
+					"settings":
+					{
+						"buffer_size": 854,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								428,
+								428
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "application/libraries/amazon_product_api_class.php",
+					"settings":
+					{
+						"buffer_size": 8736,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8049,
+								8049
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 567.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "application/libraries/amazon_product_api_signed_request.php",
+					"settings":
+					{
+						"buffer_size": 3673,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3673,
+								3673
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "application/config/autoload.php",
+					"settings":
+					{
+						"buffer_size": 3098,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1890,
+								1890
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 741.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "application/config/database.php",
+					"settings":
+					{
+						"buffer_size": 3240,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2829,
+								2829
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 6402,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49,
+								49
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "application/libraries/Crawl.php",
+					"settings":
+					{
+						"buffer_size": 4662,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								5
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true
+}
